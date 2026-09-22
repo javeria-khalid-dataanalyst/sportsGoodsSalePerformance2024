@@ -1,5 +1,4 @@
-# sportsGoodsSalePerformance2024
-🏆 Sports Goods Sales Performance 2024 | Power BI
+#🏆 Sports Goods Sales Performance 2024 | Power BI
 
 An interactive Power BI sales analytics dashboard designed to analyze sports goods sales performance across different regions, managers, products, and time periods.
 

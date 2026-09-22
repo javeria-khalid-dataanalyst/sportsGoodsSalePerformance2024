@@ -7,7 +7,7 @@ The project focuses on transforming raw sales data into meaningful business insi
 📊 Dashboard Preview
 ![Sports Goods Sales Performance 2024](dashboard.PNG)
 
-🎯 Project Objective
+***🎯 Project Objective***
 
 The main objective of this project is to analyze 2024 sports goods sales performance and provide a clear overview of:
 
@@ -21,13 +21,14 @@ Best-selling products
 
 The dashboard is designed from a business decision-making perspective, helping management quickly identify strong performance and areas requiring attention.
 
-🛠️ Tools & Technologies
+***🛠️ Tools & Technologies***
 Power BI Desktop
 Power Query – Data preparation and transformation
 DAX – Measures and KPI calculations
 Data Modeling
 Microsoft Excel / CSV – Source data
-🗂️ Data Model
+
+***🗂️ Data Model***
 
 The project uses a structured data model consisting of five main tables:
 
@@ -51,7 +52,8 @@ Contains sales targets used to measure actual performance against planned goals.
 
 A dedicated date table used for monthly and year-over-year analysis.
 
-📌 Dashboard Features
+***📌 Dashboard Features***
+
 🌍 Regional Performance
 
 The dashboard provides separate performance views for:
@@ -68,13 +70,14 @@ Year-over-year change
 Monthly sales trend
 Manager performance
 Top-selling products
-🎯 Target Achievement
+
+***🎯 Target Achievement***
 
 Sales are compared against predefined targets to monitor regional performance.
 
 The dashboard uses KPI indicators to make it easy to understand whether sales are meeting the expected target.
 
-📈 Year-over-Year Analysis
+***📈 Year-over-Year Analysis***
 
 The dashboard compares 2024 sales with 2023 sales to identify changes in sales performance.
 
@@ -83,7 +86,7 @@ This helps answer questions such as:
 How much did sales change compared with the previous year?
 Which region experienced growth?
 Which managers contributed to sales changes?
-👨‍💼 Manager Performance
+***👨‍💼 Manager Performance***
 
 The manager table provides a detailed comparison of:
 
@@ -94,13 +97,13 @@ Progress toward target
 
 This allows individual manager performance to be reviewed alongside regional results.
 
-🏆 Top 5 Best-Selling Products
+***🏆 Top 5 Best-Selling Products***
 
 The dashboard highlights the Top 5 products based on sales performance.
 
 Product performance can also be compared across the available regions.
 
-🔎 Key Business Questions
+***🔎 Key Business Questions***
 
 This dashboard was built to answer questions such as:
 
@@ -110,7 +113,7 @@ How are 2024 sales performing compared with 2023?
 Which months generated the highest sales?
 Which managers are closest to their targets?
 
-🎨 Dashboard Design
+***🎨 Dashboard Design***
 
 The dashboard was designed with a focus on:
 
@@ -129,7 +132,7 @@ Product Name
 
 This allows users to explore sales performance at a more detailed level.
 
-📚 Learning Outcomes
+***📚 Learning Outcomes***
 
 Through this project, I practiced:
 
@@ -144,7 +147,7 @@ Creating Top N product analysis
 Building interactive Power BI reports
 Presenting data in a business-friendly format
 
-🙏 Acknowledgement
+***🙏 Acknowledgement***
 
 A special thank you to Borys Kuznietsov for his Power BI tutorial and project, which provided the inspiration and learning foundation for this project.
 

@@ -86,6 +86,7 @@ This helps answer questions such as:
 How much did sales change compared with the previous year?
 Which region experienced growth?
 Which managers contributed to sales changes?
+
 ***👨‍💼 Manager Performance***
 
 The manager table provides a detailed comparison of:
